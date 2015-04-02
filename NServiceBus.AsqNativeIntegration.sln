@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asq.NativeIntegration.Client", "Asq.NativeIntegration.Client\Asq.NativeIntegration.Client.csproj", "{1070F10F-3B70-4121-9618-7C91B60E6517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asq.NativeIntegration", "Asq.NativeIntegration\Asq.NativeIntegration.csproj", "{1E49ED26-04E0-408C-8F93-9603DE6082F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asq.NativeIntegration.Messages", "Asq.NativeIntegration.Messages\Asq.NativeIntegration.Messages.csproj", "{799E69D3-A4C4-41C6-9E6F-FFB9D088B2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1070F10F-3B70-4121-9618-7C91B60E6517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1070F10F-3B70-4121-9618-7C91B60E6517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1070F10F-3B70-4121-9618-7C91B60E6517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1070F10F-3B70-4121-9618-7C91B60E6517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E49ED26-04E0-408C-8F93-9603DE6082F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E49ED26-04E0-408C-8F93-9603DE6082F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E49ED26-04E0-408C-8F93-9603DE6082F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E49ED26-04E0-408C-8F93-9603DE6082F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799E69D3-A4C4-41C6-9E6F-FFB9D088B2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799E69D3-A4C4-41C6-9E6F-FFB9D088B2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799E69D3-A4C4-41C6-9E6F-FFB9D088B2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799E69D3-A4C4-41C6-9E6F-FFB9D088B2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
